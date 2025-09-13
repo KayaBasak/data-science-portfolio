@@ -6,15 +6,15 @@ This repository documents my journey through the **IBM Data Science Professional
 ---
 
 ## 🚀 About Me
-- 🎓 Master’s student in **Industrial Engineering** at the University of Toronto  
-- 🔍 Focus on **data analytics, machine learning, and AI applications**  
-- 🛠 Skills: Python, SQL, pandas, scikit-learn, data visualization, statistics  
+- 🎓 MEng student in **Mechanical and Industrial Engineering** at the University of Toronto  
+- 🔍 Focus on **Data Analytics & Machine Learning**  
+- 🛠 Skills: Python, numpy, pandas, scikit-learn, data visualization, statistics  
 - ✍️ Writing about my projects and learnings on [Medium](https://medium.com)  
 - 🌐 Building hands-on projects and sharing them here on GitHub  
 
 ---
 
 ## 🤝 Connect
-- 📖 Medium: [link to your Medium profile]  
-- 💼 LinkedIn: [link to your LinkedIn]  
-- 💻 GitHub: [this repo link]  
+- 📖 Medium:   
+- 💼 LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BmQNxqvGeT4eLPDl%2BRt3h7Q%3D%3D
+- 💻 GitHub: 

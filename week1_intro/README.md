@@ -1,7 +1,9 @@
 # Week 1 — What is Data Science? (Reflection)
 
-- Summary of key takeaways from IBM’s “What is Data Science?”
-- Why storytelling matters in data science
-- My plan for the next weeks
+## 📖 Summary
+- Completed IBM’s *What is Data Science?* course.
+- Learned that data science is **not only technical** (Python, stats, ML) but also requires **soft skills** like storytelling.
+- Reflected on my motivation to pursue this field.
 
-👉 Medium post: (link coming soon)
+## 📝 Reflection
+See my detailed post on Medium: [Why I Started My Data Science Journey](<Medium link>)

@@ -1,4 +1,4 @@
-# Week 1 — What is Data Science? (Reflection)
+# Module 1 — What is Data Science? (Reflection)
 
 ## 📖 Summary
 - Completed IBM’s *What is Data Science?* course.

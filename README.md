@@ -1,6 +1,3 @@
-# data-science-portfolio
-Data Science Portfolio: projects, notebooks, and reflections from IBM Data Science Professional Certificate &amp; DataCamp practice
-
 # 📊 Data Science Portfolio
 
 Welcome to my Data Science Portfolio!  

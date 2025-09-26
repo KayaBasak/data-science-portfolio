@@ -8,7 +8,7 @@ This repository documents my journey through the **IBM Data Science Professional
 ## 🚀 About Me
 - 🎓 MEng student in **Mechanical and Industrial Engineering** at the University of Toronto  
 - 🔍 Focus on **Data Analytics & Machine Learning**  
-- 🛠 Skills: Python, numpy, pandas, scikit-learn, data visualization, statistics  
+- 🛠 Skills: Python, NumPy, pandas, matplotlib, seaborn, scikit-learn, pytorch  
 - ✍️ Writing about my projects and learnings on [Medium](https://medium.com)  
 - 🌐 Building hands-on projects and sharing them here on GitHub  
 

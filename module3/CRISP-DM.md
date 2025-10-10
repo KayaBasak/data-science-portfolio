@@ -1,7 +1,9 @@
 # 🩺 Predicting Diabetes with the CRISP-DM Framework
 
 This project applies the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) framework to predict whether a person has diabetes using the **Pima Indians Diabetes dataset**.  
-Each step — from business understanding to deployment — follows a structured data science workflow.
+Each step — from business understanding to deployment — follows a structured, repeatable data science workflow.  
+You can read the **detailed explanation of CRISP-DM** in my Medium article 👉 [Read on Medium](https://medium.com/@yourusername).
+
 
 ## 📊 Overview
 - **Goal:** Predict diabetes based on diagnostic health data  

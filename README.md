@@ -15,6 +15,6 @@ This repository documents my journey through the **IBM Data Science Professional
 ---
 
 ## 🤝 Connect
-- 📖 Medium: [Medium](https://medium.com/@bskky001)
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BmQNxqvGeT4eLPDl%2BRt3h7Q%3D%3D)
-- 💻 GitHub: [GitHub](https://github.com/KayaBasak/data-science-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/basak-kaya-3372b11b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV4Y8htGGRVaSSy9uZR4zTg%3D%3D)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/KayaBasak)
+[![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](https://medium.com/@bskky001)

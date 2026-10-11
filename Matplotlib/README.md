@@ -17,7 +17,7 @@ An introduction to data visualization with Matplotlib, covering six common plot 
 - Box plots
 - Pie charts
 
-**Article:** [Read on Medium]()
+**Article:** [Read on Medium](https://medium.com/@bskky001/matplotlib-explained-choosing-the-right-plot-and-creating-your-first-visualizations-d3a4c0d90774)
 
 ### 2. Matplotlib Tutorial: Customizing Charts With a Real Spotify Dataset
 

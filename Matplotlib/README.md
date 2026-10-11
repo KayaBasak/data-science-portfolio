@@ -58,4 +58,4 @@ Matplotlib/
 
 ## Author
 
-Created as part of my ongoing journey in data science, with a focus on Python, exploratory data analysis, and data visualization.
+Created as part of my ongoing journey in data science, with a focus on data visualization.

@@ -1,7 +1,8 @@
 # 📊 Data Science Portfolio
 
 Welcome to my Data Science Portfolio!  
-This repository documents my journey through the **IBM Data Science Professional Certificate** (Coursera) and complementary **DataCamp practice**. It contains code, projects, and reflections that showcase both technical skills and storytelling ability.  
+
+This repository documents my journey through data science and machine learning. It contains codes, projects, and reflections that showcase both technical skills and storytelling ability.  
 
 ---
 

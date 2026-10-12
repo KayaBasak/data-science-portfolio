@@ -23,7 +23,7 @@ An introduction to data visualization with Matplotlib, covering six common plot 
 
 A hands-on tutorial on customizing Matplotlib visualizations, including figure size, colors, markers, titles, axis labels, gridlines, transparency, and legends.
 
-**Article:** [Read on Medium](https://github.com/KayaBasak/data-science-portfolio/blob/main/Matplotlib/matplotlib_customization.ipynb)
+**Article:** [Read on Medium](https://medium.com/@bskky001/matplotlib-tutorial-customizing-charts-with-a-real-spotify-dataset-13e43b78b825)
 
 ## Dataset
 

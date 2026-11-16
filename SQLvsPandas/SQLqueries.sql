@@ -2,7 +2,7 @@
 
 -- Part 1. Basic Operations
 
---1. Selecting Columns(SELECT)
+--1. Selecting Columns (SELECT)
 -- Question: What are the country names, regions, and population figures in our dataset?
 
 SELECT

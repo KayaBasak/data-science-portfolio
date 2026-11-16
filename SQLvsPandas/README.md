@@ -42,6 +42,10 @@ SQL-vs-Pandas/
 │
 ├── world_bank_data.csv
 │
+├── DataPreparation_WorldBankData.py
+│
+├── world_bank_prepared.csv
+│
 ├── SQLqueries.sql
 │
 ├── PandasCode.py

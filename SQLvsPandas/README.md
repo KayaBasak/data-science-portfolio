@@ -40,9 +40,11 @@ The dataset covers five development indicators across countries and regions from
 ```text
 SQL-vs-Pandas/
 │
+├── world_bank_data.csv
+│
 ├── SQLqueries.sql
 │
-├── PythonScripts.py
+├── PandasCode.py
 │
 └── README.md
 ```

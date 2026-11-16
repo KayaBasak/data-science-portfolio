@@ -12,7 +12,7 @@ Original file is located at
 import pandas as pd
 
 # Reading the csv file
-df = pd.read_csv('world_bank_data.csv')
+df = pd.read_csv('world_bank_prepared.csv')
 
 # First 5 rows
 df.head()

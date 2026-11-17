@@ -63,7 +63,7 @@ SQL-vs-Pandas/
 
 Read the accompanying tutorial on Medium:
 
-[SQL vs. Pandas: Comparing Data Manipulation Techniques]
+[SQL vs. Pandas: Comparing Data Manipulation Techniques](https://medium.com/@bskky001/sql-vs-pandas-comparing-data-manipulation-techniques-8cce1e405925)
 
 The article walks through the examples, explains the differences between the two approaches, and demonstrates how both tools can be used to accomplish similar data manipulation tasks.
 
